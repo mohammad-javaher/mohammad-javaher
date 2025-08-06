@@ -1,4 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Javaher
+
+🎯 A self-taught AI enthusiast passionate about building intelligent systems to solve real-world problems in:
+
+- 🤖 **Machine Learning** & **Deep Learning**  
+- 📈 **Data Analysis** using real, uncleaned datasets
+- 🌿 **AgriTech** & Smart Greenhouse Management  
+
+---
+
+## 🧠 Currently Learning
+- ML algorithms
+- scikit-learn 
+- Statistics for ML
+
+---
+
+## 💻 Projects   
+- Real-World Data Cleaning & Visualization
+
+---
+
+## 📬 Let's Connect
+- 📧 Email: mohammadjavaaher@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-javaher)
+
+---
+
+## 🛠️ Tools & Skills
+
+`Python` • `Pandas` • `NumPy` • `scikit-learn` • `Matplotlib` • `Jupyter Notebook`  
+`Machine Learning` • `Deep Learning` • `EDA` • `Smart Agriculture`  
+
 
 <!--
 **mohammad-javaher/mohammad-javaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

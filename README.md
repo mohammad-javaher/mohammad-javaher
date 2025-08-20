@@ -10,13 +10,14 @@
 
 ## 🧠 Currently Learning
 - ML algorithms
-- scikit-learn 
+- scikit-learn
+- pytorch
 - Statistics for ML
 
 ---
 
 ## 💻 Projects   
-- Real-World Data Cleaning & Visualization
+- 
 
 ---
 

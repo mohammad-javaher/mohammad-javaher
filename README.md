@@ -16,7 +16,9 @@
 
 ---
 
-## 💻 [Projects](https://github.com/mohammad-javaher/mohammad-javaher/tree/main/my-projects)  
+## 💻 Projects
+
+- [Learning Projects](https://github.com/mohammad-javaher/mohammad-javaher/tree/main/my-projects)  
 
 ---
 

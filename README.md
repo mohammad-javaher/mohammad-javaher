@@ -16,8 +16,7 @@
 
 ---
 
-## 💻 Projects   
-- 
+## 💻 [Projects](https://github.com/mohammad-javaher/mohammad-javaher/tree/main/my-projects)  
 
 ---
 

@@ -17,8 +17,12 @@
 ---
 
 ## 💻 Projects
-
-- [Learning Projects](https://github.com/mohammad-javaher/mohammad-javaher/tree/main/my-projects)  
+  1. [air pollution forecasting with xgboost](https://github.com/mohammad-javaher/us-air-pollution-forecasting-with-xgboost)
+    - [webapp](https://us-air-pollution-forecasting-with-xgboost-3utoasxvrezfjdant28j.streamlit.app/)
+  2. [Handwritten Digit Classifier with Neural Network](https://github.com/mohammad-javaher/Handwritten-Digit-Classifier-with-Neural-Network)
+  3. [Movie Recommendation System with Collaborative Filtering](https://github.com/mohammad-javaher/movie-recommendation-system-with-collaborative-filtering)
+  4. [Heart Disease Prediction](https://github.com/mohammad-javaher/mohammad-javaher/tree/main/my-projects/Heart_Disease_Prediction)
+  5. [Titanic Survival Prediction](https://github.com/mohammad-javaher/mohammad-javaher/blob/main/my-projects/Titanic/titanic.ipynb)
 
 ---
 

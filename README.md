@@ -10,6 +10,7 @@
 
 ## 🧠 Currently Learning
 - ML algorithms
+- Bioinformatics
 - scikit-learn
 - pytorch
 - Statistics for ML
@@ -24,6 +25,10 @@
   4. [Heart Disease Prediction](https://github.com/mohammad-javaher/mohammad-javaher/tree/main/my-projects/Heart_Disease_Prediction)
   5. [Titanic Survival Prediction](https://github.com/mohammad-javaher/mohammad-javaher/blob/main/my-projects/Titanic/titanic.ipynb)
   6. [LinearRegression model from scratch](https://github.com/mohammad-javaher/LinearRegresion-model-from-scratch/blob/main/LinearRegression.ipynb)
+
+### Bioinformatics 
+  1. [B cell lymphoma survival analysis](https://github.com/mohammad-javaher/B_cell_lymphoma_survival_analysis/blob/main/B_cell_lymphoma_survival_analysis_results.ipynb)
+  
 
 ---
 
